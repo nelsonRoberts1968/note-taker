@@ -1,0 +1,4 @@
+# note-taker
+
+
+Project readme
