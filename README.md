@@ -8,8 +8,8 @@ User can delete and existsing task from the list by using a delete button.
 ## Installation instructions 
 
 * Clone git repository.
-* Run Node Command  " node server.js"
-* Once local server is up and running naviget to port 3001
+* Run Node Command  "node server.js"
+* Once local server is up and running navigate to port 3001
 * Follow instruction for creating a new note and save
 
 
@@ -21,7 +21,7 @@ User can delete and existsing task from the list by using a delete button.
 ![note-taker-tasks-landing-page](https://user-images.githubusercontent.com/16344305/146730221-a1548b38-5f9f-4402-9b95-ec28ff768c9b.png)
 
 
-## Screenshot of  New Tasks added and Saved to he list of Tasks
+## Screenshot of New Tasks added and Saved to he list of Tasks
 
 ![note-taker-landingpage](https://user-images.githubusercontent.com/16344305/146730164-08500521-f709-4aa7-87b2-942dca4c7ea5.png)
 
