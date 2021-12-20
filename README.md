@@ -19,7 +19,7 @@ User can delete and existsing task from the list by using a delete button.
 
 ![Image of Landing page for note Taker](note-taker/images/note-taker-tasks-landing-page.png)
 
-## Screenshot of  New Tasks added and Saved to he list of Ta
+## Screenshot of  New Tasks added and Saved to he list of Tasks
 
 ![Note Taker List of Tasks](note-taker/images/note-taker-landingpage.png)
 
