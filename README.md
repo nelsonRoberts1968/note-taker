@@ -17,22 +17,26 @@ User can delete and existsing task from the list by using a delete button.
 
 * Running Application  of the generated HTML fine on the browser NOTE TAKER INDEX PAGE
 
-![Image of Landing page for note Taker](note-taker/images/note-taker-tasks-landing-page.png)
+
+![note-taker-tasks-landing-page](https://user-images.githubusercontent.com/16344305/146730221-a1548b38-5f9f-4402-9b95-ec28ff768c9b.png)
 
 
 ## Screenshot of  New Tasks added and Saved to he list of Tasks
 
-![Note Taker List of Tasks](note-taker/images/note-taker-landingpage.png)
+![note-taker-landingpage](https://user-images.githubusercontent.com/16344305/146730164-08500521-f709-4aa7-87b2-942dca4c7ea5.png)
 
 
 ## Screenshot Showing a Task List item to be deleted from the list
 
-![Marked task to be deleted ](note-taker/images/Note-take-delete-task-item.png)
+![Note-take-delete-task-item](https://user-images.githubusercontent.com/16344305/146730046-7f0ee638-bf11-458d-a366-4440d1f27db1.png))
 
 
 ## Screenshot Showing a Task List item is being deleted from the list
 
-![Image of taks item after deletion](note-taker/images/note-taker-list-item-deleted.png)
+![note-taker-list-item-deleted](https://user-images.githubusercontent.com/16344305/146730189-fccf9f0e-0f5c-459d-b4c3-2b421bdc5d66.png)
+
+
+
 
 
 
